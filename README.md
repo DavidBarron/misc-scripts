@@ -7,6 +7,7 @@ Repository for one-off things and stuff that I want to keep.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 https://brew.sh/
+
 2. Install Python
 To keep python versions tidy install specific version with Homebrew
 ```shell
